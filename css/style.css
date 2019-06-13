@@ -650,3 +650,7 @@ header {
     position: absolute;
     max-width: 35%;
 }
+
+.flow-root {
+    display: flow-root;
+}
