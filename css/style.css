@@ -386,6 +386,11 @@ header {
     z-index: -1;
 }
 
+.perspective-phone-override {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 @media (min-width:992px) {
     .perspective-phone {
         margin-top: -150px;
@@ -640,4 +645,8 @@ header {
         text-align: center;
         margin-top: 2rem;
     }
+}
+.over-the-top {
+    position: absolute;
+    max-width: 35%;
 }
