@@ -1,17 +1,5 @@
 @charset "UTF-8";
 
-/*
-
-Style   : MobApp CSS
-Version : 1.0
-Author  : Surjith S M
-URI     : https://surjithctly.in/
-
-Copyright © All rights Reserved 
-
-*/
-
-
 /*------------------------
 [TABLE OF CONTENTS]
     
@@ -32,7 +20,7 @@ Copyright © All rights Reserved
 ----------------------*/
 
 body {
-    font-family: 'montserrat', sans-serif;
+    font-family: 'Lato', sans-serif;
     position: relative;
 }
 
