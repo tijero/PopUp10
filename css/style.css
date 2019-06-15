@@ -36,6 +36,13 @@ body {
     position: relative;
 }
 
+.myvideo {
+    right: 0;
+    top: 0;
+    max-width: 100%;
+    object-fit: cover;  
+}
+
 a {
     color: #72b4b5;
 }
@@ -76,6 +83,13 @@ h5 {
     font-size: 28px;
     font-weight: 300;
     color: #1c254b;
+    margin-bottom: 0.7rem;
+}
+
+h6 {
+    font-size: 35px;
+    font-weight: 300;
+    color: #72b4b5;
     margin-bottom: 0.7rem;
 }
 
