@@ -171,6 +171,10 @@ p.lead {
     color: #72b4b5;
 }
 
+.section-big {
+    padding: 150px 0;
+}
+
 @media (max-width:767px) {
     h1 {
         font-size: 40px;
@@ -733,7 +737,7 @@ header video {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 20%;
     background: url("images/LI-In-Bug.png") no-repeat;
     
   }
@@ -742,6 +746,6 @@ header video {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 20%;
     background: url("images/LI-In-Bug_hover.png") no-repeat;
   }
