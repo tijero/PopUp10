@@ -753,3 +753,13 @@ header video {
     width: 20%;
     background: url("images/LI-In-Bug_hover.png") no-repeat;
   }
+
+  .tab-div-image {
+      width : 30%;
+      padding: 10px;
+  }
+
+  .tab-div-content {
+    width : 70%;
+    padding: 10px;
+}
