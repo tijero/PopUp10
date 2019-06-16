@@ -628,7 +628,7 @@ header video {
 
 .card.pricing .card-head .price {
     display: block;
-    font-size: 45px;
+    font-size: 20px;
     font-weight: 300;
     color: #1c254b;
 }
@@ -721,3 +721,27 @@ header video {
         margin-top: 2rem;
     }
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+  .center-linkedin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background: url("images/LI-In-Bug.png") no-repeat;
+    
+  }
+
+  .center-linkedin:hover {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    background: url("images/LI-In-Bug_hover.png") no-repeat;
+  }
