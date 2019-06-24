@@ -737,3 +737,14 @@ header video {
         margin-top: 2rem;
     }
 }
+
+.fontBncUp {
+font-size: 24px;
+font-weight: 600;
+font-style: normal;
+font-stretch: normal;
+line-height: 1.27;
+letter-spacing: normal;
+font-family: 'AvenirNext', 'Arial';
+color: var(--dark-indigo);
+}

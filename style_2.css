@@ -23441,6 +23441,13 @@ h5 {
         padding: 2% 12% 2% 30%;
         margin: 0 7% 2% 7%
     }
+
+    .queBncup {
+        border-radius: 0 100px 0 0;
+        padding: 2% 12% 2% 30%;
+        margin: 0 7% 2% 7%
+    }
+
     .queBnc10 h3 {
         font-size: 48px;
         font-weight: 600;
